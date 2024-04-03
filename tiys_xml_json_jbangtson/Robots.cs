@@ -12,7 +12,7 @@ public class Robot
     so on!
     */
     private static int robotID = 0;
-    // Properties of Student
+    
 
     public int RobotID{get; private set;}
     public string Name {get; set;}
