@@ -26,3 +26,4 @@ E:\College\Tutoring\using-data-TIYS\tiys_xml_json_jbangtson\obj\Debug\net7.0\ref
 E:\College\Tutoring\using-data-TIYS\tiys_xml_json_jbangtson\obj\Debug\net7.0\app.pdb
 E:\College\Tutoring\using-data-TIYS\tiys_xml_json_jbangtson\obj\Debug\net7.0\app.genruntimeconfig.cache
 E:\College\Tutoring\using-data-TIYS\tiys_xml_json_jbangtson\obj\Debug\net7.0\ref\app.dll
+E:\College\Tutoring\using-data-TIYS\tiys_xml_json_jbangtson\obj\Debug\net7.0\app.sourcelink.json
