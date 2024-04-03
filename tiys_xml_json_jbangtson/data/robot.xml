@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robots>
+    <robot>
+        <robotid type="int" access="public">19</robotid>
+        <name type="string" access="public">Robert</name>
+        <color type="string" access="public">red</color>
+        <batterylevel type="double" access="public">4.0</batterylevel>
+    </robot>
+</robots>

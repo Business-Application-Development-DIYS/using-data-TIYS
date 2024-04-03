@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLtzISO2+zcbWg3DVB75RJ4q1iafK8EWyHZ14L7BUiqll7LctPRjxh9ijeE/fYzXb9ge4Ji+amOnz1yJPBm3Cw==",
+  "success": true,
+  "projectFilePath": "E:\\College\\Tutoring\\using-data-TIYS\\tiys_xml_json_jbangtson\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
