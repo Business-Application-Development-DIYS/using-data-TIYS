@@ -3,7 +3,7 @@ using System.Xml;
 using System.Text.Json;
 
 List<Robot> robotList = new List<Robot>{};
-Console.WriteLine("test");
+
 
 
 menu();
